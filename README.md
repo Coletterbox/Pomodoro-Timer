@@ -2,7 +2,7 @@
 
 https://coletterbox.github.io/Pomodoro-Timer/
 
-## Most Pomodoro timers aren't cute enough.
+## Most Pomodoro timers aren't cute enough. (EDIT: Inspired by today's attempt at work, this now has the added functionality of a two-minute crying break.)
 
 I just wanted a cuter Pomodoro timer; the others worked fine.
 
