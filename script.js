@@ -78,6 +78,7 @@ var pomodoro = {
   timerComplete: function() {
     this.started = false;
     this.fillerHeight = 0;
+    alert("Timer Complete!");
   }
 };
 window.onload = function() {
