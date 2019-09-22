@@ -65,6 +65,10 @@
   border-radius: 50px;
 }
 
+#buttons button#cry {
+  background: #694193;
+}
+
 #buttons button#shortBreak {
   background: #aa8bbc;
 }
