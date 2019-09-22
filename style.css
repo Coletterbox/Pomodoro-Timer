@@ -12,7 +12,7 @@
 }
 
 #container {
-  border: 4px dotted #483254;
+  border: 0.25rem dotted #483254;
   border-radius: 20px;
   width: 400px;
   margin: 20px auto;
