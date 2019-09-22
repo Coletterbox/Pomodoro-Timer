@@ -19,6 +19,9 @@ var pomodoro = {
     document.querySelector("#work").onclick = function() {
       self.startWork.apply(self);
     };
+    document.querySelector("#cry").onclick = function() {
+      self.startCry.apply(self);
+    };
     document.querySelector("#shortBreak").onclick = function() {
       self.startShortBreak.apply(self);
     };
@@ -38,6 +41,9 @@ var pomodoro = {
   },
   startWork: function() {
     this.resetVariables(25, 0, true);
+  },
+  startCry: function() {
+    this.resetVariables(2, 0, true);
   },
   startShortBreak: function() {
     this.resetVariables(5, 0, true);
@@ -81,6 +87,9 @@ var pomodoro = {
     alert("Timer Complete!");
   }
 };
+
+// https://actions.google.com/sounds/v1/alarms/dinner_bell_triangle.ogg
+
 window.onload = function() {
   pomodoro.init();
 };
