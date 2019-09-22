@@ -7,11 +7,11 @@
 */
 
 * {
-  color: #fdecef;
+  color: #483254;
 }
 
 #container {
-  border: 5px dotted #240f18;
+  border: 4px dotted #483254;
   border-radius: 20px;
   width: 400px;
   margin: 20px auto;
@@ -54,7 +54,7 @@
 #buttons button {
   background: #9d6381;
   border: none;
-  color: #fff;
+  color: #fdecef;
   cursor: pointer;
   padding: 5px;
   width: 90px;
