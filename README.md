@@ -6,12 +6,17 @@ https://coletterbox.github.io/Pomodoro-Timer/
 
 I just wanted a cuter Pomodoro timer; the others worked fine.
 
-The Pomodoro Technique was created by Francesco Cirillo, and you can find more information here: https://francescocirillo.com/pages/pomodoro-technique.
+The Pomodoro Technique was created by **Francesco Cirillo**, and you can find more information here: https://francescocirillo.com/pages/pomodoro-technique.
 
-This was created by Raj Gupta (thank you!), and his code can be found here: https://codepen.io/rajdgreat007/pen/ZpZWbw.
+This was created by **Raj Gupta** (thank you!), and his code can be found here: https://codepen.io/rajdgreat007/pen/ZpZWbw.
 
 His version was already beautifully symmetrical and such, so I didn't have to do much to make it more to my taste.
 
 Most of the colour combinations are thanks to coolors.co.
 
 ![kissing mice](https://media.giphy.com/media/tCWMUAuZLMvKg/giphy.gif)
+
+### Changes to original:
+- The colours match my soul.
+- I added a notification for when a timer was up.
+- There is now the option of a two minute crying break. Sometimes you need it.
